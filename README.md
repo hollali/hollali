@@ -2,11 +2,7 @@
 <h3 align="center">A passionate Software Enginner from Ghana building the future one line of code at the time.</h3>
 <img align="center"width="400" src="giif"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hollali&label=Profile%20views&color=0e75b6&style=flat" alt="hollali" /> </p>
 
-<p align="left"> <a href="https://github.com/hollali/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hollali" alt="hollali" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/h_ollali" target="blank"><img src="https://img.shields.io/twitter/follow/h_ollali?logo=twitter&style=for-the-badge" alt="h_ollali" /></a> </p>
 
 - 🔭 I’m currently working on **Space Invaders**
 
