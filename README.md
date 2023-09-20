@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm hollali</h1>
+<h1 align="center">Hello World 👋, I'm hollali</h1>
 <h3 align="center">A passionate Software Enginner from Ghana</h3>
-<img align="right" alt="Coding" width="400" src=""> 
+<img align="right"width="400" src="giif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hollali&label=Profile%20views&color=0e75b6&style=flat" alt="hollali" /> </p>
 
