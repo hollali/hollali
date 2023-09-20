@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hollali&label=Profile%20views&color=0e75b6&style=flat" alt="hollali" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hollali" alt="hollali" /></a> </p>
+<p align="left"> <a href="https://github.com/hollali/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hollali" alt="hollali" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/h_ollali" target="blank"><img src="https://img.shields.io/twitter/follow/h_ollali?logo=twitter&style=for-the-badge" alt="h_ollali" /></a> </p>
 
@@ -22,9 +22,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/h_ollali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="h_ollali" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:18305017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:18305017" height="30" width="40" /></a>
-<a href="https://instagram.com/__cloud_.nine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__cloud_.nine" height="30" width="40" /></a>
+<a href="https://twitter.com/h_ollali" target="blank"><img align="center" src="https://raw.githubusercontent.com/hollali/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="h_ollali" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/user:18305017" target="blank"><img align="center" src="https://raw.githubusercontent.com/hollali/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:18305017" height="30" width="40" /></a>
+<a href="https://instagram.com/__cloud_.nine" target="blank"><img align="center" src="https://raw.githubusercontent.com/hollali/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__cloud_.nine" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
