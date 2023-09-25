@@ -10,11 +10,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hollali](https://github.com/hollali)
 
-- 💬 Ask me about **PHP,C++,**
+- 💬 Ask me about **PHP(MariaDB),Python,**
 
 - 📫 How to reach me **dheztinykartel@gmail.com**
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **I think i am funny and also collabrative**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
