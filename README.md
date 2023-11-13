@@ -1,4 +1,4 @@
-<h1 align="center">"Hello World 👋", I'm hollali</h1>
+<h1 align="center">"Hello World 👋", I'm Hollali</h1>
 <h3 align="center">A passionate Software Enginner from Ghana building the future one line of code at the time.</h3>
 <img align="center"width="400" src="giif"> 
 
