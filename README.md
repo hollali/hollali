@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **dheztinykartel@gmail.com**
 
-- ⚡ Fun fact ** I am a  hardworking,  I think funny and also collabrative individual**
+- ⚡ Fun fact : I am a  hardworking,  I think funny and also collabrative individual.
 - ⚡ i am also an open source contributer
 <h3 align="left">Connect with me:</h3>
 <p align="left">
