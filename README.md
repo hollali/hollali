@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hollali](https://github.com/hollali)
 
-- 💬 Ask me about **PHP,Python,C++**
+- 💬 Ask me about **PHP,Python,C++,C**
 
 - 📫 How to reach me **dheztinykartel@gmail.com**
 
