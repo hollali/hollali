@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **a Project**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and its related frameworks **
 
 - 👨‍💻 All of my projects are available at [https://github.com/hollali](https://github.com/hollali)
 
