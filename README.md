@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on **a Project**
+- 🔭 I’m currently working on ** Personal and Open Source Projects**
 
 - 🌱 I’m currently learning **Python and its related frameworks **
 
