@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on  Personal and Open Source Projects.
 
-- 🌱 I’m currently learning **Python and its related frameworks **
+- 🌱 I’m currently learning Python and its related frameworks.
 
 - 👨‍💻 All of my projects are available at [https://github.com/hollali](https://github.com/hollali)
 
-- 💬 Ask me about PHP,Python,C++,C and the Linux Commander Line.
+- 💬 Ask me about PHP, Python, C++ ,C and the Linux Commander Line.
 
 - 📫 How to reach me dheztinykartel@gmail.com.
 
