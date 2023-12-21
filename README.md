@@ -17,7 +17,8 @@
 - 📫 How to reach me dheztinykartel@gmail.com.
 
 - ⚡ Fun fact : I am a  hardworking,  I think funny and also collabrative individual.
-- ⚡ i am also an open source contributer and I work well in group setting
+- 
+- 👨🏾‍💻 i am also an open source contributer and I work well in group setting
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/h_ollali" target="blank"><img align="center" src="https://raw.githubusercontent.com/hollali/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="h_ollali" height="30" width="40" /></a>
