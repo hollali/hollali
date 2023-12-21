@@ -10,6 +10,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hollali](https://github.com/hollali)
 
+- 🔎 You can also checkout my porfolio website at [https://hollali.pxxl.space/#about](https://hollali.pxxl.space/#about)
+
 - 💬 Ask me about PHP, Python, C++ ,C and the Linux Commander Line.
 
 - 📫 How to reach me dheztinykartel@gmail.com.
