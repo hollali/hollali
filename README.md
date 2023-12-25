@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hollali](https://github.com/hollali)
 
-- 🔎 You can also checkout my porfolio website at [https://hollali.pxxl.space/#about](https://hollali.pxxl.space/)
+- 🔎 You can also checkout my porfolio website at [https://hollali.pxxl.space/](https://hollali.pxxl.space/)
 
 - 💬 Ask me about PHP, Python, C++ ,C and the Linux Commander Line.
 
