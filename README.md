@@ -17,9 +17,6 @@
 - 📫 How to reach me dheztinykartel@gmail.com.
 
 - ⚡ Fun fact : I am a  hardworking,  I think funny and also collabrative individual.
-  
-- 👨🏾‍💻 i am also an open source contributer and I work well in group setting
-  
 
 
 ## 🌐 Socials:
