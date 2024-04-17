@@ -20,12 +20,7 @@
   
 - 👨🏾‍💻 i am also an open source contributer and I work well in group setting
   
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/h_ollali" target="blank"><img align="center" src="https://raw.githubusercontent.com/hollali/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="h_ollali" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:18305017" target="blank"><img align="center" src="https://raw.githubusercontent.com/hollali/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:18305017" height="30" width="40" /></a>
-<a href="https://instagram.com/__cloud_.nine" target="blank"><img align="center" src="https://raw.githubusercontent.com/hollali/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__cloud_.nine" height="30" width="40" /></a>
-</p>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__cloud_.nine) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/h0llali) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Hollali) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18305017) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@h0llali) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/h_ollali) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@hollali) 
