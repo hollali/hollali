@@ -12,7 +12,7 @@
 
 - 🔎 You can also checkout my porfolio website at [https://hollali.pxxl.space/](https://hollali.pxxl.space/)
 
-- 💬 Ask me about PHP, Python, C++ ,C and the Bash Scripting.
+- 💬 Ask me about PHP, Python, C++ ,C and  Bash.
 
 - 📫 How to reach me dheztinykartel@gmail.com.
 
