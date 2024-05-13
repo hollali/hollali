@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Python and its related frameworks.
 
-- 👨‍💻 All of my projects are available at [https://github.com/hollali](https://github.com/hollali)
+- 👨‍💻 All of my projects are available at [https://github.com/hollali?tab=repositories](https://github.com/hollali?tab=repositories)
 
 - 🔎 You can also checkout my porfolio website at [https://hollali.pxxl.space/](https://hollali.pxxl.space/)
 
