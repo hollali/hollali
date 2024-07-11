@@ -18,7 +18,6 @@
 
 - 💬 Ask me about PHP, Python, C++ ,C ,Next JS and  Bash.
 
-- 📫 How to reach me.
 <div align="center"> 
   <a href="mailto:dheztinykartel@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
