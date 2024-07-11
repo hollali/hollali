@@ -19,6 +19,18 @@
 - 💬 Ask me about PHP, Python, C++ ,C ,Next JS and  Bash.
 
 - 📫 How to reach me <a href="mailto:dheztinykartel@gmail.com" style="text-decoration: none;">dheztinykartel@gmail.com</a>
+<div align="center"> 
+  <a href="mailto:dheztinykartel@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://hollali.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
 
 - ⚡ Fun fact : I am a  hardworking,  I think funny and also collabrative individual.
 
