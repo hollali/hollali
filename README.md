@@ -18,6 +18,8 @@
 
 - 💬 Ask me about PHP, Python, C++ ,C ,Next JS and  Bash.
 
+- ⚡ Fun fact : I am a  hardworking,  I think funny and also collabrative individual.
+
 <div align="center"> 
   <a href="mailto:dheztinykartel@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -30,7 +32,6 @@
   </a>
 </div>
 
-- ⚡ Fun fact : I am a  hardworking,  I think funny and also collabrative individual.
 
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
