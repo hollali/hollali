@@ -31,7 +31,7 @@
   </a>
 </div>
 
-
+ <hr/>
 - ⚡ Fun fact : I am a  hardworking,  I think funny and also collabrative individual.
 
 
