@@ -8,13 +8,14 @@
 
 - 🌱 I’m currently learning Python and its related frameworks.
 
-- 👨‍💻 All of my projects are available at [https://github.com/hollali?tab=repositories](https://github.com/hollali?tab=repositories)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/hollali?tab=repositories" style="text-decoration: none;">GitHub</a>
 
-- 🔎 You can also checkout my porfolio website at [https://hollali.pxxl.space/](https://hollali.pxxl.space/)
+-🔎 You can also checkout my portfolio website at <a href="https://hollali.pxxl.space/" style="text-decoration: none;">Portfolio</a>
+
 
 - 💬 Ask me about PHP, Python, C++ ,C ,Next JS and  Bash.
 
-- 📫 How to reach me dheztinykartel@gmail.com.
+- 📫 How to reach me <a href="mailto:dheztinykartel@gmail.com" style="text-decoration: none;">dheztinykartel@gmail.com</a>
 
 - ⚡ Fun fact : I am a  hardworking,  I think funny and also collabrative individual.
 
