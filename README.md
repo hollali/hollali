@@ -1,4 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hollali.hollali" />
+<a href="https://visitcount.itsvg.in" align="left">
+  <img src="https://visitcount.itsvg.in/api?id=hollali&icon=0&color=0" alt="Visitor Count-🧑‍💻" />
+    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hollali.hollali" />
+</a>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hollali!;" />
 </h1>
