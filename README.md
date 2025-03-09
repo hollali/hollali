@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/hollali?tab=repositories" style="text-decoration: none;">GitHub</a>
 
-  🔎 You can also checkout my portfolio website at <a href="https://hollali.pxxl.space/" style="text-decoration: none;">Portfolio</a>
+  🔎 You can also checkout my portfolio website at <a href="https://hollali.netlify.app/" style="text-decoration: none;">Portfolio</a>
 
   💬 Ask me about PHP, Python, C++ ,C ,Next JS and  Bash.
 
