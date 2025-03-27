@@ -69,7 +69,7 @@
  <a href="https://github.com/hollali">
     <img src="https://github-stats-alpha.vercel.app/api?username=hollali&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
    <br/>
-   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=hollali&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+   <!--<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=hollali&count_private=true&theme=react&border_radius=10" alt="streak stats"/>-->
 </a>
   </div>
 <div align="center">
