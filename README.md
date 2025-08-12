@@ -17,7 +17,7 @@
 
 
 <div align="center">
-- 🔭 I’m currently working on  Personal and Open Source Projects.
+-  🔭 I’m currently working on  Personal and Open Source Projects.
 
 - 🌱 I’m currently learning Python and its related frameworks.
 
@@ -25,7 +25,7 @@
 
 - 🔎 You can also checkout my portfolio website at <a href="https://hollali.netlify.app/" style="text-decoration: none;">Portfolio</a>
 
-- 💬 Ask me about PHP, Python, C++, C, Next JS, React Native and  Bash.
+- 💬 Ask me about PHP, Python, C++, C, Next JS, React Native ,Flutter and  Bash.
 
 - ⚡ Fun fact : I am a  hardworking,  I think funny and also collabrative individual.
 </div>
