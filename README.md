@@ -3,15 +3,20 @@
     <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hollali.hollali" />
   <br/>
 </a>
-<img src="banner.png" style="align center"/>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hollali!;" />
 </h1>
+<img src="banner.png" style="align center"/>
+
+
 <h3 align="center">A passionate Software Enginner from Ghana 🇬🇭 building the future one line of code at the time.</h3>
-<img align="center"width="400" src="giif"> 
+<div align="center">
+<img width="400" src="giif"> 
+</div>
 
 
-
+<div align="center">
 - 🔭 I’m currently working on  Personal and Open Source Projects.
 
 - 🌱 I’m currently learning Python and its related frameworks.
@@ -23,6 +28,9 @@
 - 💬 Ask me about PHP, Python, C++, C, Next JS, React Native and  Bash.
 
 - ⚡ Fun fact : I am a  hardworking,  I think funny and also collabrative individual.
+</div>
+
+
 
 <div align="center"> 
   <a href="mailto:dheztinykartel@gmail.com">
