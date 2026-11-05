@@ -6,7 +6,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hollali!;" />
 </h1>
-<img src="./banner.png" style="align center" alt="Banner"/>
+<!--<img src="./banner.png" style="align center" alt="Banner"/>-->
 
 
 <h3 align="center">A passionate Software Engineer from Ghana 🇬🇭 building the future one line of code at the time.</h3>
@@ -24,7 +24,7 @@
 
 - 🔎 You can also checkout my portfolio website at <a href="https://hollali.netlify.app/" style="text-decoration: none;">Portfolio</a>
 
-- 💬 Ask me about PHP, Python, C++, C, Next JS, React Native ,Flutter and  Bash.
+- 💬 Ask me about PHP, Python, C++, C, Next.js, React Native ,Flutter and  Bash.
 
 - ⚡ Fun fact : I am a  hardworking,  I think funny and also collabrative individual.
 </div>
