@@ -43,15 +43,19 @@
 
 <br/>
 
-<a href="mailto:dheztinykartel@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
-</a>
-<a href="https://linkedin.com/in/kelvin-quarshie-18600b225">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://hollali.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
-</a>
+<h3>Let's connect</h3>
+
+<p align="center">
+  <a href="mailto:dheztinykartel@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-dheztinykartel%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Hollali" />
+  </a>
+  <a href="https://linkedin.com/in/kelvin-quarshie-18600b225">
+    <img src="https://img.shields.io/badge/LinkedIn-Kelvin%20Quarshie-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://hollali.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-hollali.netlify.app-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 </div>
 
@@ -173,6 +177,8 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-%2300E599.svg?style=for-the-badge&logo=neon&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <h3>Cloud &amp; Hosting</h3>
