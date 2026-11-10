@@ -113,9 +113,9 @@
 
 <br/>
 
-<img width="390" src="https://github-stats-extended.vercel.app/api?username=hollali&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<img width="390" src="https://github-stats-extended.vercel.app/api?username=hollali&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide_border=true&include_all_commits=true&show=prs_merged,prs_merged_percentage" alt="Hollali's GitHub stats" />
 
-<img width="390" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hollali&hide=HTML&langs_count=20&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<img width="390" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hollali&hide=HTML&langs_count=20&layout=compact&theme=react&border_radius=10&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
 </div>
 
