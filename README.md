@@ -105,17 +105,19 @@
 
 <div align="center">
 
-<h2>⚡ GitHub Stats</h2>
+<h2>📊 GitHub Stats</h2>
 
 <a href="https://github.com/hollali">
-  <img src="https://github-stats-alpha.vercel.app/api?username=hollali&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats" />
+  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hollali&theme=react" alt="Hollali's contribution overview" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img width="390" src="https://github-stats-extended.vercel.app/api?username=hollali&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide_border=true&include_all_commits=true&show=prs_merged,prs_merged_percentage" alt="Hollali's GitHub stats" />
+<img width="390" src="https://github-stats-extended.vercel.app/api?username=hollali&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide_border=true&include_all_commits=true" alt="Hollali's GitHub stats" /> <img width="390" src="https://streak-stats.demolab.com?user=hollali&theme=react&hide_border=true&border_radius=10" alt="Hollali's GitHub streak" />
 
-<img width="390" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hollali&hide=HTML&langs_count=20&layout=compact&theme=react&border_radius=10&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<br/><br/>
+
+<img width="390" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hollali&hide=HTML&langs_count=20&layout=compact&theme=react&border_radius=10&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Most used languages" />
 
 </div>
 
