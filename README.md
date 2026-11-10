@@ -30,7 +30,7 @@
 </p>
 
 <p align="left">
-  Off the clock I'm usually in a terminal, which is how <b>fedora-health</b>, <b>bashbox</b>, <b>powershellbox</b> and my Bash <b>file-organizer</b> happened. I still keep the small builds that got me started too — C++ console games, a Python Space Invaders clone, Tkinter apps, JavaFX/Kotlin experiments and the odd WhatsApp bot. I'm currently going deeper into Python and its frameworks, and I'm happiest when a project teaches me a new tool, a new language, or a better way to think about a problem.
+  Off the clock I'm usually in a terminal, which is how <b>fedora-health</b>, <b>bashbox</b>, <b>powershellbox</b> and my Bash <b>file-organizer</b> happened. I still keep the small builds that got me started too — C++ console games, a Python Space Invaders clone, Tkinter apps, JavaFX/Kotlin experiments and the odd WhatsApp bot. I'm currently going deeper into DevOps tools, and I'm happiest when a project teaches me a new tool, a new language, or a better way to think about a problem.
 </p>
 
 <table align="center">
@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td align="left">🌱 <b>Currently learning</b></td>
-    <td align="left">Python and its frameworks</td>
+    <td align="left">DevOps tools — Docker, Kubernetes, CI/CD</td>
   </tr>
   <tr>
     <td align="left">💬 <b>Ask me about</b></td>
