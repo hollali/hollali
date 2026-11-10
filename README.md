@@ -22,23 +22,38 @@
 <h2>👋 About Me</h2>
 
 <p align="left">
-  I'm <b>Hollali Kelvin</b>, a software engineer based in Accra, Ghana. I build software by starting with a real problem I've seen around me and figuring out the rest as I go — which is probably why my repos bounce between e-commerce, healthcare, mobility, civic tools and whatever Linux rabbit hole I fell into that week.
+  <b>I'm Hollali Kelvin — a software engineer based in Accra, Ghana, who learns best by building.</b> Most of my repos start with a real problem I've seen around me, then grow into whatever stack the problem asks for. That's why you'll find e-commerce, healthcare, mobility, civic tools and Linux utilities sitting side by side.
 </p>
 
 <p align="left">
-  A lot of my work sits where money and everyday life meet. I built <b>AfricVogue (e-store)</b>, an African fashion storefront with Next.js, Neon Postgres, Drizzle, Clerk, Sanity and Paystack/Stripe; <b>Nadia Beads</b>, a second e-commerce build with Firebase, Sanity and Paystack; and <b>e-banking</b> and <b>TradeFlow</b>, where I got to work with Plaid, charts and real-time trade tracking. I also built <b>Celer</b>, a ride-share app on Expo and Neon, and <b>Pindrive</b>, a Flutter vehicle-rental app backed by Firebase.
+  A lot of my work lives where money and everyday life meet: <b>AfricVogue (e-store)</b> for African fashion, <b>Nadia Beads</b> and <b>e-shop</b> for commerce, <b>e-banking</b> and <b>TradeFlow</b> for finance. I also built <b>Celer</b> (ride-share on Expo + Neon) and <b>Pindrive</b> (Flutter vehicle rental), plus <b>Cloak Care</b>, <b>ghana-alert</b> and <b>Next-Class</b> when a project can make someone's day a little lighter.
 </p>
 
 <p align="left">
-  Some projects are about making daily work a little lighter: <b>Cloak Care</b> for patient records and SMS reminders, <b>ghana-alert</b> for consumer alerts, a parliamentary research management system, and <b>Next-Class</b>/school management tools for education. And because I spend too much time in a terminal, I built tools for myself too — <b>fedora-health</b> (a Rust diagnostic tool for slow Fedora machines), <b>bashbox</b> and <b>powershellbox</b> for setting up a fresh shell in one command, and a <b>file-organizer</b> in Bash that I still use.
+  Off the clock I'm usually in a terminal, which is how <b>fedora-health</b>, <b>bashbox</b>, <b>powershellbox</b> and my Bash <b>file-organizer</b> happened. I still keep the small builds that got me started too — C++ console games, a Python Space Invaders clone, Tkinter apps, JavaFX/Kotlin experiments and the odd WhatsApp bot. I'm currently going deeper into Python and its frameworks, and I'm happiest when a project teaches me a new tool, a new language, or a better way to think about a problem.
 </p>
 
-<p align="left">
-  I haven't lost the small projects that got me started either: C++ console games and ATMs, a Python Space Invaders clone, Tkinter billing and inventory apps, Java/JavaFX and Kotlin experiments, Flutter grocery apps, WhatsApp bots and web scrapers. I'm currently going deeper into Python and its frameworks, and I'm happiest when a project teaches me a new tool, a new language, or a better way to think about a problem.
-</p>
+<table align="center">
+  <tr>
+    <td align="left">📍 <b>Based in</b></td>
+    <td align="left">Accra, Ghana 🇬🇭</td>
+  </tr>
+  <tr>
+    <td align="left">🛠️ <b>I build</b></td>
+    <td align="left">Full-stack web, mobile apps, dev &amp; Linux tooling</td>
+  </tr>
+  <tr>
+    <td align="left">🌱 <b>Currently learning</b></td>
+    <td align="left">Python and its frameworks</td>
+  </tr>
+  <tr>
+    <td align="left">💬 <b>Ask me about</b></td>
+    <td align="left">PHP, Python, C/C++, Next.js, React Native, Flutter, Bash</td>
+  </tr>
+</table>
 
 <p align="left">
-  Everything I've built is on <a href="https://github.com/hollali?tab=repositories">GitHub</a>, and there's a bit more about me on my <a href="https://hollali.netlify.app/">portfolio</a>. If you want to talk shop about PHP, Python, C/C++, Next.js, React Native, Flutter or Bash — or just swap notes on building for Ghana — my inbox is always open.
+  Everything I've built is on <a href="https://github.com/hollali?tab=repositories">GitHub</a>, and there's a bit more about me on my <a href="https://hollali.netlify.app/">portfolio</a>. If you want to talk shop, or just swap notes on building for Ghana, my inbox is always open.
 </p>
 
 <br/>
