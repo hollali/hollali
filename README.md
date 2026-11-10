@@ -95,7 +95,10 @@
 
 <h2>🔝 Top Contributed Repos</h2>
 
-<img src="https://github-contrib-stats.vercel.app/hollali/contributed.svg" alt="Top Contributed Repos" />
+<a href="https://github.com/hollali/e-store"><img width="390" src="https://github-stats-extended.vercel.app/api/pin/?username=hollali&repo=e-store&theme=react&border_radius=10" alt="e-store" /></a>
+<a href="https://github.com/hollali/e-commerce"><img width="390" src="https://github-stats-extended.vercel.app/api/pin/?username=hollali&repo=e-commerce&theme=react&border_radius=10" alt="e-commerce" /></a>
+<a href="https://github.com/hollali/Celer"><img width="390" src="https://github-stats-extended.vercel.app/api/pin/?username=hollali&repo=Celer&theme=react&border_radius=10" alt="Celer" /></a>
+<a href="https://github.com/TechWithMax/Next-Class"><img width="390" src="https://github-stats-extended.vercel.app/api/pin/?username=TechWithMax&repo=Next-Class&theme=react&border_radius=10" alt="Next-Class (contributed)" /></a>
 
 </div>
 
