@@ -95,7 +95,7 @@
 
 <h2>🔝 Top Contributed Repos</h2>
 
-<img src="https://github-contributor-stats.vercel.app/api?username=hollali&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+<img src="https://github-contrib-stats.vercel.app/hollali/contributed.svg" alt="Top Contributed Repos" />
 
 </div>
 
