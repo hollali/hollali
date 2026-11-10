@@ -21,14 +21,25 @@
 
 <h2>👋 About Me</h2>
 
-<ul align="left">
-  <li>🔭 I’m currently working on <b>personal and open source projects</b>.</li>
-  <li>🌱 I’m currently learning <b>Python</b> and its related frameworks.</li>
-  <li>👨‍💻 All of my projects are available on <a href="https://github.com/hollali?tab=repositories">GitHub</a>.</li>
-  <li>🔎 You can also check out my portfolio at <a href="https://hollali.netlify.app/">hollali.netlify.app</a>.</li>
-  <li>💬 Ask me about <b>PHP, Python, C++, C, Next.js, React Native, Flutter</b> and <b>Bash</b>.</li>
-  <li>⚡ Fun fact: I am hardworking, think funny and am a collaborative individual.</li>
-</ul>
+<p align="left">
+  I'm <b>Hollali Kelvin</b>, a software engineer based in Accra, Ghana. I build software by starting with a real problem I've seen around me and figuring out the rest as I go — which is probably why my repos bounce between e-commerce, healthcare, mobility, civic tools and whatever Linux rabbit hole I fell into that week.
+</p>
+
+<p align="left">
+  A lot of my work sits where money and everyday life meet. I built <b>AfricVogue (e-store)</b>, an African fashion storefront with Next.js, Neon Postgres, Drizzle, Clerk, Sanity and Paystack/Stripe; <b>Nadia Beads</b>, a second e-commerce build with Firebase, Sanity and Paystack; and <b>e-banking</b> and <b>TradeFlow</b>, where I got to work with Plaid, charts and real-time trade tracking. I also built <b>Celer</b>, a ride-share app on Expo and Neon, and <b>Pindrive</b>, a Flutter vehicle-rental app backed by Firebase.
+</p>
+
+<p align="left">
+  Some projects are about making daily work a little lighter: <b>Cloak Care</b> for patient records and SMS reminders, <b>ghana-alert</b> for consumer alerts, a parliamentary research management system, and <b>Next-Class</b>/school management tools for education. And because I spend too much time in a terminal, I built tools for myself too — <b>fedora-health</b> (a Rust diagnostic tool for slow Fedora machines), <b>bashbox</b> and <b>powershellbox</b> for setting up a fresh shell in one command, and a <b>file-organizer</b> in Bash that I still use.
+</p>
+
+<p align="left">
+  I haven't lost the small projects that got me started either: C++ console games and ATMs, a Python Space Invaders clone, Tkinter billing and inventory apps, Java/JavaFX and Kotlin experiments, Flutter grocery apps, WhatsApp bots and web scrapers. I'm currently going deeper into Python and its frameworks, and I'm happiest when a project teaches me a new tool, a new language, or a better way to think about a problem.
+</p>
+
+<p align="left">
+  Everything I've built is on <a href="https://github.com/hollali?tab=repositories">GitHub</a>, and there's a bit more about me on my <a href="https://hollali.netlify.app/">portfolio</a>. If you want to talk shop about PHP, Python, C/C++, Next.js, React Native, Flutter or Bash — or just swap notes on building for Ghana — my inbox is always open.
+</p>
 
 <br/>
 
