@@ -113,11 +113,7 @@
 
 <br/><br/>
 
-<img width="390" src="https://github-stats-extended.vercel.app/api?username=hollali&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide_border=true&include_all_commits=true" alt="Hollali's GitHub stats" /> <img width="390" src="https://streak-stats.demolab.com?user=hollali&theme=react&hide_border=true&border_radius=10" alt="Hollali's GitHub streak" />
-
-<br/><br/>
-
-<img width="390" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hollali&hide=HTML&langs_count=20&layout=compact&theme=react&border_radius=10&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Most used languages" />
+<img width="390" src="https://github-stats-extended.vercel.app/api?username=hollali&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide_border=true&include_all_commits=true" alt="Hollali's GitHub stats" /> <img width="390" src="https://streak-stats.demolab.com?user=hollali&theme=react&hide_border=true&border_radius=10" alt="Hollali's GitHub streak" /> <img width="390" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hollali&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Most used languages" />
 
 </div>
 
