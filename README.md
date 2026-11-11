@@ -117,7 +117,7 @@
 
 <br/><br/>
 
-<img width="390" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hollali&hide=HTML&langs_count=20&layout=compact&theme=react&border_radius=10&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Most used languages" />
+<img src="./top-langs.svg" alt="Most used languages" width="420" />
 
 </div>
 
