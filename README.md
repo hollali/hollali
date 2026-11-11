@@ -117,7 +117,7 @@
 
 <br/><br/>
 
-<img src="./top-langs.svg" alt="Most used languages" width="420" />
+<img src="./top-langs.svg" alt="Most used languages" width="720" />
 
 </div>
 
