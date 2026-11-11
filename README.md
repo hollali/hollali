@@ -117,20 +117,7 @@
 
 <br/><br/>
 
-<!--LANGS:START-->
-### Most Used Languages
-
-| | | |
-|---|---|---|
-| **TypeScript** — 31.5% | **PHP** — 29.3% | **JavaScript** — 15.0% |
-| **Blade** — 7.6% | **Python** — 4.5% | **Rust** — 3.7% |
-| **CSS** — 3.2% | **HTML** — 1.3% | **Shell** — 1.0% |
-| **Dart** — 1.0% | **C++** — 0.8% | **CMake** — 0.5% |
-| **PLpgSQL** — 0.2% | **Java** — 0.1% | **Kotlin** — 0.1% |
-| **PowerShell** — 0.1% | **Swift** — 0.1% | **C** — 0.0% |
-| **Hack** — 0.0% | **Dockerfile** — 0.0% | **Batchfile** — 0.0% |
-| **Objective-C** — 0.0% |  |  |
-<!--LANGS:END-->
+<img width="390" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hollali&hide=HTML&langs_count=20&layout=compact&theme=react&border_radius=10&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Most used languages" />
 
 </div>
 
