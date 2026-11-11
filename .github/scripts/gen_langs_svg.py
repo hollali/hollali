@@ -52,7 +52,7 @@ COLORS = {
 def color(n): return COLORS.get(n, "#858585")
 
 COLS = 3
-W = 420
+W = 720
 PAD = 25
 bar_w = W - 2*PAD
 n = len(data)
