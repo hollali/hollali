@@ -15,10 +15,16 @@ def api(path):
 repos = []
 page = 1
 while True:
-    batch = api(f"/users/{USERNAME}/repos?per_page=100&page={page}&type=owner")
+    if TOKEN:
+        batch = api(f"/user/repos?per_page=100&page={page}&affiliation=owner")
+    else:
+        batch = api(f"/users/{USERNAME}/repos?per_page=100&page={page}&type=owner")
     if not batch:
         break
-    repos.extend([r for r in batch if not r.get("fork")])
+    for r in batch:
+        if TOKEN and r.get("owner", {}).get("login") != USERNAME:
+            continue
+        repos.append(r)
     if len(batch) < 100:
         break
     page += 1
