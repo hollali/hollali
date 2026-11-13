@@ -25,10 +25,18 @@ jobs:
           USERNAME: hollali
           OUT: top-langs.svg
         run: python3 .github/scripts/gen_langs_svg.py
+      - name: Check for changes
+        run: |
+          if git diff --quiet; then
+            echo "No changes to top-langs.svg, exiting"
+            exit 0
+          fi
+          echo "Changes detected, proceeding"
+
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add top-langs.svg
-          git commit -m "Update top-langs.svg" || exit 0
+          git commit -m "Update top-langs.svg"
           git push
